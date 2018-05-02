@@ -82,7 +82,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="gmail@gmail.com"
+        android:text="g@gmail.com"
         android:textSize="20sp"
         android:layout_gravity="center"
         />
